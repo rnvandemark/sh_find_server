@@ -1,0 +1,6 @@
+/**:
+    ros__parameters:
+        heartbeat_period_ms: 2000
+        find/http_version: "1.1"
+        find/server_host: "cloud.internalpositioning.com"
+        find/server_port: 8005
